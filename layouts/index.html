@@ -1,0 +1,23 @@
+
+
+{{ define "main" }}
+<div>
+    <p class="pMainPage">
+        База знаний <a href="https://galaxyoverseas.ru" target="_blank">Galaxy Over Seas</a> по запчастям для круглоткацких станков. 
+        Подробные описания, технические характеристики и 
+        рекомендации по выбору запчастей для поддержания оборудования 
+        в рабочем состоянии. 
+    </p>
+</div>
+<div class="list">
+    {{ range .Paginator.Pages }}
+        <div class="listItems">
+            <ul>
+                <li>
+                    <time>{{ dateFormat "2 Jan" .Date}}</time><a class="a_header" href={{.Permalink}}>{{.Title}}</a>
+                </li>
+            </ul>
+        </div>
+    {{ end }}
+</div>
+{{ end }}

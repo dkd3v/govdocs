@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="list">
+   <div class="singleHead">
+    <div class="sinleHeadTexts">
+        <h1 class="title__center">{{.Title}}</h1>
+        <time class="title__date gray">{{dateFormat "2 January 2006" .Date}}</time>
+        <div>{{.Content}}</div>
+    </div>
+   </div>
+</div>
+{{ end }}

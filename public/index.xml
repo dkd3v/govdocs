@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Over Docs</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Over Docs</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 12 Dec 2024 18:53:24 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Круглоткацкие станки - общее определение</title>
+      <link>//localhost:1313/kruglotkatskie_stanki/</link>
+      <pubDate>Thu, 12 Dec 2024 18:53:24 +0300</pubDate>
+      <guid>//localhost:1313/kruglotkatskie_stanki/</guid>
+      <description>&lt;p&gt;Deploy testing by gh actions&lt;/p&gt;&#xA;&lt;p&gt;Круглоткацкие станки — это современные ткацкие машины, которые используются для производства тканей в непрерывном режиме.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/starlinger.png&#34; alt=&#34;Круглоткацкий станок Starlinger&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Они отличаются высокой производительностью и широко применяются в текстильной промышленности для изготовления различных видов тканей, включая трикотажные полотна, технические ткани и ткани для одежды.&lt;/p&gt;&#xA;&lt;h3 id=&#34;основные-особенности-круглоткацких-станков&#34;&gt;Основные особенности круглоткацких станков:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 &lt;strong&gt;Круглая форма&lt;/strong&gt; › Название &amp;ldquo;круглоткацкий&amp;rdquo; происходит от круглой формы основного рабочего органа станка — цилиндрической игольницы (игольного цилиндра). Это позволяет производить ткань в виде непрерывного полотна.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

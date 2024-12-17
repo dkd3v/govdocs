@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "JetBrains Mono";
+}
+.a_logo {
+    font-size: 28px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+time {
+    padding-right: 15px;
+    font-size: 1.1rem;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    font-size: 22px;
+}
+.a_header {
+    text-decoration: underline;
+}
+.singleHeadTitle {
+    display: flex;
+    justify-content: center;
+}
+.sigleTime {
+    display: flex;
+    justify-content: center;
+}
+p {
+    padding-top: 10px;
+    padding-left: 32px;
+    padding-right: 28px;
+}
+.gray {
+    color: gray;
+}

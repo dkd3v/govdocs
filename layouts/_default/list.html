@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="list">
+    {{ range .Paginator.Pages }}
+        <div class="listItems">
+            <ul>
+                <li>
+                    <time class="time1">{{ dateFormat "2 Jan"  .Date}}</time>
+                    <a class="a_header" href={{.Permalink}}>{{.Title}}</a>
+                </li>
+            </ul>
+        </div>
+    {{ end }}
+</div>
+{{ end }}

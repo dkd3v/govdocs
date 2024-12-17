@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Over Docs</title>
+    <link>//localhost:1313/tags/css/</link>
+    <description>Recent content in Css on Over Docs</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 14 Dec 2024 18:53:24 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Третий пост!</title>
+      <link>//localhost:1313/tirdh/</link>
+      <pubDate>Sat, 14 Dec 2024 18:53:24 +0300</pubDate>
+      <guid>//localhost:1313/tirdh/</guid>
+      <description>&lt;h2 id=&#34;третий-пост&#34;&gt;Третий пост!&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Второй пост!</title>
+      <link>//localhost:1313/second/</link>
+      <pubDate>Fri, 13 Dec 2024 18:58:14 +0300</pubDate>
+      <guid>//localhost:1313/second/</guid>
+      <description>&lt;h2 id=&#34;второй-пост&#34;&gt;Второй пост!&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Первый пост!</title>
+      <link>//localhost:1313/first/</link>
+      <pubDate>Thu, 12 Dec 2024 18:53:24 +0300</pubDate>
+      <guid>//localhost:1313/first/</guid>
+      <description>&lt;h2 id=&#34;первый-пост&#34;&gt;Первый пост!&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Четвертый пост</title>
+      <link>//localhost:1313/fourth/</link>
+      <pubDate>Wed, 11 Dec 2024 18:58:14 +0300</pubDate>
+      <guid>//localhost:1313/fourth/</guid>
+      <description>&lt;h2 id=&#34;четвертый-пост&#34;&gt;Четвертый пост&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
