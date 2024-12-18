@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
+    <lastmod>2024-12-14T20:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/opornye_roliki/</loc>
+    <lastmod>2024-12-14T20:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/transportirovochnye_roliki/</loc>
+    <lastmod>2024-12-14T19:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/napravlayuchie_roliki/</loc>
+    <lastmod>2024-12-14T18:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/prijimnye_roliki/</loc>
+    <lastmod>2024-12-14T18:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/natyajnye_roliki/</loc>
+    <lastmod>2024-12-13T18:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/zapchasti_dlya_stankov_starlinger/</loc>
+    <lastmod>2024-12-12T19:53:24+03:00</lastmod>
+  </url><url>
+    <loc>/kruglotkatskie_stanki/</loc>
     <lastmod>2024-12-12T18:53:24+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/kruglotkatskie_stanki/</loc>
-    <lastmod>2024-12-12T18:53:24+03:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
