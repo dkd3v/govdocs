@@ -3,6 +3,8 @@ languageCode = 'ru'
 title = 'Over Docs'
 canonifyURLs = true
 
+paginate = 0
+
 
 [markup]
   [markup.goldmark]

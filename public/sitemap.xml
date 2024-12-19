@@ -2,32 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-12-18T19:56:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/datchiki_napryajenia/</loc>
+    <lastmod>2024-12-18T19:56:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/napravlyauchie_dlya_namotki/</loc>
+    <lastmod>2024-12-18T18:55:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/mehnizm_otvoda/</loc>
+    <lastmod>2024-12-18T18:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/namotochnye_valy/</loc>
+    <lastmod>2024-12-18T17:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/podayuchie_mehanizmy/</loc>
+    <lastmod>2024-12-18T14:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/katushki/</loc>
+    <lastmod>2024-12-18T13:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/predihraniteli/</loc>
+    <lastmod>2024-12-18T13:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/rychagi/</loc>
+    <lastmod>2024-12-18T12:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/napravlyauchie_dlya_nitey/</loc>
+    <lastmod>2024-12-17T16:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/napravlyauchie_dlya_polotna/</loc>
+    <lastmod>2024-12-17T15:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/electro_paneli/</loc>
+    <lastmod>2024-12-17T15:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/dvigateli/</loc>
+    <lastmod>2024-12-16T18:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/datchiki/</loc>
+    <lastmod>2024-12-16T17:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/natyagnie_bloki/</loc>
+    <lastmod>2024-12-16T16:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/natyajnye_pruginy/</loc>
+    <lastmod>2024-12-16T15:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/rolikovye_conveery/</loc>
+    <lastmod>2024-12-16T15:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/natyajnye_ustroistva/</loc>
+    <lastmod>2024-12-16T14:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/schestirenki/</loc>
+    <lastmod>2024-12-16T14:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/shkivy/</loc>
+    <lastmod>2024-12-16T13:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/privodnye_remni/</loc>
+    <lastmod>2024-12-16T12:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/podayuchie_valiki/</loc>
+    <lastmod>2024-12-15T21:54:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/igolye_tsilindry/</loc>
+    <lastmod>2024-12-15T21:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/igolnye_plastiny/</loc>
+    <lastmod>2024-12-15T20:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/igly/</loc>
+    <lastmod>2024-12-15T19:53:24+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/opornye_roliki/</loc>
     <lastmod>2024-12-14T20:53:24+03:00</lastmod>
   </url><url>
-    <loc>/opornye_roliki/</loc>
-    <lastmod>2024-12-14T20:53:24+03:00</lastmod>
-  </url><url>
-    <loc>/transportirovochnye_roliki/</loc>
+    <loc>//localhost:1313/transportirovochnye_roliki/</loc>
     <lastmod>2024-12-14T19:53:24+03:00</lastmod>
   </url><url>
-    <loc>/napravlayuchie_roliki/</loc>
+    <loc>//localhost:1313/napravlayuchie_roliki/</loc>
     <lastmod>2024-12-14T18:53:24+03:00</lastmod>
   </url><url>
-    <loc>/prijimnye_roliki/</loc>
+    <loc>//localhost:1313/prijimnye_roliki/</loc>
     <lastmod>2024-12-14T18:53:24+03:00</lastmod>
   </url><url>
-    <loc>/natyajnye_roliki/</loc>
+    <loc>//localhost:1313/natyajnye_roliki/</loc>
     <lastmod>2024-12-13T18:53:24+03:00</lastmod>
   </url><url>
-    <loc>/zapchasti_dlya_stankov_starlinger/</loc>
+    <loc>//localhost:1313/zapchasti_dlya_stankov_starlinger/</loc>
     <lastmod>2024-12-12T19:53:24+03:00</lastmod>
   </url><url>
-    <loc>/kruglotkatskie_stanki/</loc>
+    <loc>//localhost:1313/kruglotkatskie_stanki/</loc>
     <lastmod>2024-12-12T18:53:24+03:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

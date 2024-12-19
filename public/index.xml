@@ -2,59 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Over Docs</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Over Docs</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Dec 2024 20:53:24 +0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 19:56:24 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Датчики напряжения на круглоткацких машинах</title>
+      <link>//localhost:1313/datchiki_napryajenia/</link>
+      <pubDate>Wed, 18 Dec 2024 19:56:24 +0300</pubDate>
+      <guid>//localhost:1313/datchiki_napryajenia/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Направляющие для намотки на круглоткацких машинах</title>
+      <link>//localhost:1313/napravlyauchie_dlya_namotki/</link>
+      <pubDate>Wed, 18 Dec 2024 18:55:24 +0300</pubDate>
+      <guid>//localhost:1313/napravlyauchie_dlya_namotki/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Механизмы отвода на круглоткацких машинах</title>
+      <link>//localhost:1313/mehnizm_otvoda/</link>
+      <pubDate>Wed, 18 Dec 2024 18:53:24 +0300</pubDate>
+      <guid>//localhost:1313/mehnizm_otvoda/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Намоточные валы на круглоткацких машинах</title>
+      <link>//localhost:1313/namotochnye_valy/</link>
+      <pubDate>Wed, 18 Dec 2024 17:53:24 +0300</pubDate>
+      <guid>//localhost:1313/namotochnye_valy/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Подающие механизмы для круглоткацких машин</title>
+      <link>//localhost:1313/podayuchie_mehanizmy/</link>
+      <pubDate>Wed, 18 Dec 2024 14:53:24 +0300</pubDate>
+      <guid>//localhost:1313/podayuchie_mehanizmy/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Катушки для круглоткацких машин</title>
+      <link>//localhost:1313/katushki/</link>
+      <pubDate>Wed, 18 Dec 2024 13:53:24 +0300</pubDate>
+      <guid>//localhost:1313/katushki/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Предохранители для круглоткацких машин</title>
+      <link>//localhost:1313/predihraniteli/</link>
+      <pubDate>Wed, 18 Dec 2024 13:53:24 +0300</pubDate>
+      <guid>//localhost:1313/predihraniteli/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Рычаги управления для круглоткацких машин</title>
+      <link>//localhost:1313/rychagi/</link>
+      <pubDate>Wed, 18 Dec 2024 12:53:24 +0300</pubDate>
+      <guid>//localhost:1313/rychagi/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Направляющие для нитей на круглоткацких машинах</title>
+      <link>//localhost:1313/napravlyauchie_dlya_nitey/</link>
+      <pubDate>Tue, 17 Dec 2024 16:53:24 +0300</pubDate>
+      <guid>//localhost:1313/napravlyauchie_dlya_nitey/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Направляющие для полотна на круглоткацких машинах</title>
+      <link>//localhost:1313/napravlyauchie_dlya_polotna/</link>
+      <pubDate>Tue, 17 Dec 2024 15:53:24 +0300</pubDate>
+      <guid>//localhost:1313/napravlyauchie_dlya_polotna/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Электронные панели управления для круглоткацких машин</title>
+      <link>//localhost:1313/electro_paneli/</link>
+      <pubDate>Tue, 17 Dec 2024 15:53:24 +0300</pubDate>
+      <guid>//localhost:1313/electro_paneli/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Электродвигатели для привода круглоткацких машин</title>
+      <link>//localhost:1313/dvigateli/</link>
+      <pubDate>Mon, 16 Dec 2024 18:53:24 +0300</pubDate>
+      <guid>//localhost:1313/dvigateli/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Датчики для контроля круглоткацких машин</title>
+      <link>//localhost:1313/datchiki/</link>
+      <pubDate>Mon, 16 Dec 2024 17:53:24 +0300</pubDate>
+      <guid>//localhost:1313/datchiki/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Натяжные блоки для круглоткацких машин</title>
+      <link>//localhost:1313/natyagnie_bloki/</link>
+      <pubDate>Mon, 16 Dec 2024 16:53:24 +0300</pubDate>
+      <guid>//localhost:1313/natyagnie_bloki/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Натяжные пружины для круглоткацких машин</title>
+      <link>//localhost:1313/natyajnye_pruginy/</link>
+      <pubDate>Mon, 16 Dec 2024 15:53:24 +0300</pubDate>
+      <guid>//localhost:1313/natyajnye_pruginy/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Роликовые конвееры для круглоткацких машин</title>
+      <link>//localhost:1313/rolikovye_conveery/</link>
+      <pubDate>Mon, 16 Dec 2024 15:53:24 +0300</pubDate>
+      <guid>//localhost:1313/rolikovye_conveery/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Натяжные устройства для круглоткацких машин</title>
+      <link>//localhost:1313/natyajnye_ustroistva/</link>
+      <pubDate>Mon, 16 Dec 2024 14:53:24 +0300</pubDate>
+      <guid>//localhost:1313/natyajnye_ustroistva/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Шестиренки для круглоткацких машин</title>
+      <link>//localhost:1313/schestirenki/</link>
+      <pubDate>Mon, 16 Dec 2024 14:53:24 +0300</pubDate>
+      <guid>//localhost:1313/schestirenki/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Шкивы для круглоткацких машин</title>
+      <link>//localhost:1313/shkivy/</link>
+      <pubDate>Mon, 16 Dec 2024 13:53:24 +0300</pubDate>
+      <guid>//localhost:1313/shkivy/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Приводные ремни для круглоткацких машин</title>
+      <link>//localhost:1313/privodnye_remni/</link>
+      <pubDate>Mon, 16 Dec 2024 12:53:24 +0300</pubDate>
+      <guid>//localhost:1313/privodnye_remni/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Подающие валики для круглоткацких машин</title>
+      <link>//localhost:1313/podayuchie_valiki/</link>
+      <pubDate>Sun, 15 Dec 2024 21:54:24 +0300</pubDate>
+      <guid>//localhost:1313/podayuchie_valiki/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Игольные цилиндры для круглоткацких машин</title>
+      <link>//localhost:1313/igolye_tsilindry/</link>
+      <pubDate>Sun, 15 Dec 2024 21:53:24 +0300</pubDate>
+      <guid>//localhost:1313/igolye_tsilindry/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Игольные пластины для круглоткацких машин</title>
+      <link>//localhost:1313/igolnye_plastiny/</link>
+      <pubDate>Sun, 15 Dec 2024 20:53:24 +0300</pubDate>
+      <guid>//localhost:1313/igolnye_plastiny/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Иглы для круглоткацких машин</title>
+      <link>//localhost:1313/igly/</link>
+      <pubDate>Sun, 15 Dec 2024 19:53:24 +0300</pubDate>
+      <guid>//localhost:1313/igly/</guid>
+      <description>&lt;p&gt;text&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Опорные ролики для круглоткацких станков</title>
-      <link>/opornye_roliki/</link>
+      <link>//localhost:1313/opornye_roliki/</link>
       <pubDate>Sat, 14 Dec 2024 20:53:24 +0300</pubDate>
-      <guid>/opornye_roliki/</guid>
+      <guid>//localhost:1313/opornye_roliki/</guid>
       <description>&lt;p&gt;texts will be here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Транспортировочные ролики для круглоткацких станков</title>
-      <link>/transportirovochnye_roliki/</link>
+      <link>//localhost:1313/transportirovochnye_roliki/</link>
       <pubDate>Sat, 14 Dec 2024 19:53:24 +0300</pubDate>
-      <guid>/transportirovochnye_roliki/</guid>
+      <guid>//localhost:1313/transportirovochnye_roliki/</guid>
       <description>&lt;p&gt;texts will be here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Направляющие ролики для кроглоткацких станков</title>
-      <link>/napravlayuchie_roliki/</link>
+      <link>//localhost:1313/napravlayuchie_roliki/</link>
       <pubDate>Sat, 14 Dec 2024 18:53:24 +0300</pubDate>
-      <guid>/napravlayuchie_roliki/</guid>
+      <guid>//localhost:1313/napravlayuchie_roliki/</guid>
       <description>&lt;p&gt;texts will be here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Прижимные ролики для круглоткацких станков</title>
-      <link>/prijimnye_roliki/</link>
+      <link>//localhost:1313/prijimnye_roliki/</link>
       <pubDate>Sat, 14 Dec 2024 18:53:24 +0300</pubDate>
-      <guid>/prijimnye_roliki/</guid>
+      <guid>//localhost:1313/prijimnye_roliki/</guid>
       <description></description>
     </item>
     <item>
       <title>Натяжные ролики для круглоткацких станков</title>
-      <link>/natyajnye_roliki/</link>
+      <link>//localhost:1313/natyajnye_roliki/</link>
       <pubDate>Fri, 13 Dec 2024 18:53:24 +0300</pubDate>
-      <guid>/natyajnye_roliki/</guid>
+      <guid>//localhost:1313/natyajnye_roliki/</guid>
       <description>&lt;p&gt;texts will be here&lt;/p&gt;</description>
     </item>
     <item>
       <title>Список основных запчастей для круглоткацких машин Starlinger</title>
-      <link>/zapchasti_dlya_stankov_starlinger/</link>
+      <link>//localhost:1313/zapchasti_dlya_stankov_starlinger/</link>
       <pubDate>Thu, 12 Dec 2024 19:53:24 +0300</pubDate>
-      <guid>/zapchasti_dlya_stankov_starlinger/</guid>
+      <guid>//localhost:1313/zapchasti_dlya_stankov_starlinger/</guid>
       <description>&lt;p&gt;Список основных запчастей для круглоткацких машин Starlinger, которые могут потребоваться для обслуживания, ремонта или модернизации оборудования. Этот список включает ключевые компоненты, которые часто заменяются или требуют внимания.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ролики-и-направляющие&#34;&gt;Ролики и направляющие&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Направляющие ролики › Для направления нитей и полотна через станки.&lt;/li&gt;&#xA;&lt;li&gt;Натяжные ролики › Для регулировки натяжения нитей.&lt;/li&gt;&#xA;&lt;li&gt;Прижимные ролики › Для прижатия полотна к рабочей поверхности.&lt;/li&gt;&#xA;&lt;li&gt;Транспортировочные ролики › Для перемещения готовой ткани.&lt;/li&gt;&#xA;&lt;li&gt;Опорные ролики › Для поддержки конструкции станка.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;игольные-системы&#34;&gt;Игольные системы&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Иглы › Основной рабочий элемент, который формирует петли в трикотажном полотне.&lt;/li&gt;&#xA;&lt;li&gt;Игольные пластины › Для фиксации игл в правильном положении.&lt;/li&gt;&#xA;&lt;li&gt;Игольные цилиндры › Основной механизм, на котором расположены иглы.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;механизмы-подачи&#34;&gt;Механизмы подачи&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Подающие валики › Для подачи нитей или полотна через станки.&lt;/li&gt;&#xA;&lt;li&gt;Приводные ремни › Для передачи движения от двигателя к механизмам.&lt;/li&gt;&#xA;&lt;li&gt;Шкивы и шестерни › Для управления движением валиков и роликов.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-натяжения&#34;&gt;Системы натяжения&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Натяжные устройства › Для регулировки натяжения нитей.&lt;/li&gt;&#xA;&lt;li&gt;Натяжные пружины › Для обеспечения равномерного натяжения.&lt;/li&gt;&#xA;&lt;li&gt;Натяжные блоки › Для управления натяжением в автоматическом режиме.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;электроника-и-автоматизация&#34;&gt;Электроника и автоматизация&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Контроллеры и программное обеспечение › Для управления работой станка.&lt;/li&gt;&#xA;&lt;li&gt;Датчики › Для контроля натяжения, скорости и других параметров.&lt;/li&gt;&#xA;&lt;li&gt;Электродвигатели › Для привода механизмов станка.&lt;/li&gt;&#xA;&lt;li&gt;Кабели и разъемы › Для подключения электроники.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-охлаждения-и-смазки&#34;&gt;Системы охлаждения и смазки&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Смазочные насосы › Для подачи смазки к механизмам.&lt;/li&gt;&#xA;&lt;li&gt;Охлаждающие вентиляторы › Для предотвращения перегрева оборудования.&lt;/li&gt;&#xA;&lt;li&gt;Фильтры для масла и смазки › Для поддержания чистоты систем смазки.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-транспортировки&#34;&gt;Системы транспортировки&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Конвейерные ленты › Для перемещения готовой ткани.&lt;/li&gt;&#xA;&lt;li&gt;Роликовые конвейеры › Для транспортировки полотна через станки.&lt;/li&gt;&#xA;&lt;li&gt;Направляющие для полотна › Для предотвращения смещения ткани.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-управления-и-регулировки&#34;&gt;Системы управления и регулировки&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ручки и регуляторы › Для настройки параметров работы станка.&lt;/li&gt;&#xA;&lt;li&gt;Штурвалы и рычаги › Для управления механизмами вручную.&lt;/li&gt;&#xA;&lt;li&gt;Электронные панели управления › Для программирования и контроля работы.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-безопасности&#34;&gt;Системы безопасности&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ограждения и защитные кожухи › Для предотвращения попадания посторонних предметов в механизмы.&lt;/li&gt;&#xA;&lt;li&gt;Предохранительные устройства › Для защиты от перегрузок и аварийных ситуаций.&lt;/li&gt;&#xA;&lt;li&gt;Сигнальные лампы и звуковые сигналы › Для оповещения о работе или неполадках.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-подачи-нитей&#34;&gt;Системы подачи нитей&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Катушки и бобины › Для хранения и подачи нитей.&lt;/li&gt;&#xA;&lt;li&gt;Подающие механизмы › Для автоматической подачи нитей.&lt;/li&gt;&#xA;&lt;li&gt;Направляющие для нитей › Для предотвращения перекручивания и запутывания.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-отвода-и-намотки&#34;&gt;Системы отвода и намотки&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Намоточные валы › Для намотки готовой ткани.&lt;/li&gt;&#xA;&lt;li&gt;Механизмы отвода › Для удаления отходов и брака.&lt;/li&gt;&#xA;&lt;li&gt;Направляющие для намотки › Для равномерной намотки полотна.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;системы-контроля-качества&#34;&gt;Системы контроля качества&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Датчики контроля натяжения › Для автоматической регулировки натяжения.&lt;/li&gt;&#xA;&lt;li&gt;Системы контроля скорости › Для поддержания постоянной скорости работы.&lt;/li&gt;&#xA;&lt;li&gt;Системы обнаружения дефектов › Для выявления брака в процессе производства.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Запчасти для круглоткацких машин Starlinger играют важную роль в поддержании их работоспособности и производительности. Правильный подбор и своевременная замена запчастей позволяют минимизировать простои оборудования и обеспечить высокое качество продукции.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Круглоткацкие станки - общее определение</title>
-      <link>/kruglotkatskie_stanki/</link>
+      <link>//localhost:1313/kruglotkatskie_stanki/</link>
       <pubDate>Thu, 12 Dec 2024 18:53:24 +0300</pubDate>
-      <guid>/kruglotkatskie_stanki/</guid>
+      <guid>//localhost:1313/kruglotkatskie_stanki/</guid>
       <description>&lt;p&gt;Круглоткацкие станки — это современные ткацкие машины, которые используются для производства тканей в непрерывном режиме.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/starlinger.png&#34; alt=&#34;Круглоткацкий станок Starlinger&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Они отличаются высокой производительностью и широко применяются в текстильной промышленности для изготовления различных видов тканей, включая трикотажные полотна, технические ткани и ткани для одежды.&lt;/p&gt;&#xA;&lt;h3 id=&#34;основные-особенности-круглоткацких-станков&#34;&gt;Основные особенности круглоткацких станков:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 &lt;strong&gt;Круглая форма&lt;/strong&gt; › Название &amp;ldquo;круглоткацкий&amp;rdquo; происходит от круглой формы основного рабочего органа станка — цилиндрической игольницы (игольного цилиндра). Это позволяет производить ткань в виде непрерывного полотна.&lt;/p&gt;</description>
     </item>
   </channel>
